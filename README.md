@@ -8,7 +8,7 @@
 ✅ Clean and minimalistic layout
 
 ## Preview
-🔗 Live Demo (Add your deployed link here, e.g., Vercel/Netlify/GitHub Pages)
+[🔗 Live Demo](https://chelsey20.github.io/glassmorphism-design-concept/) : https://chelsey20.github.io/glassmorphism-design-concept/
 
 ## Installation
 Clone the repository:
